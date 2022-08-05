@@ -1,0 +1,14 @@
+user: root
+pass: mysql
+
+TO run this program:
+after download this file extract and copy to ur xammp, htdoc
+. start ur xampp, make sure ur apache and mysql is running on xampp,
+. click on the mysql admin then it takes u to  the database
+. click on create new database, named"Cinema-Reservation " click "create the database" then import this database "cinema_db" which is the complete project
+ .after importing then click go
+ .then u get an alert that the ur project is successful.
+ .go to the browser nd type "localhost/Cinema-Reservation/"
+ .and you are done!
+
+.
